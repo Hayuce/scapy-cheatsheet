@@ -11,5 +11,5 @@ Konu         | Açıklama
 [Paketler](https://github.com/besimaltnok/scapy-cheatsheet/blob/master/paketler/) | Paketler ile ilgili temel bilgiler verir. (hakkında, oluşturma, inceleme)
 [Port Tarama](https://github.com/besimaltnok/scapy-cheatsheet/blob/master/port-tarama/tarama.md) | Port tarama örnekleri içerir.(syn, ack)
 
-<a href="https://www.canyoupwn.me" rel="some text">![cypm](http://i63.tinypic.com/2exn1gj.png)</a>
+<a href="https://www.canyoupwn.me" target="_blank" rel="some text">![cypm](http://i63.tinypic.com/2exn1gj.png)</a>
 
